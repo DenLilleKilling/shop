@@ -10,6 +10,7 @@ include ('includes/db_conncet.php');
     </head>
     <body>
 		<div id="wrapper">
+			<p>hej</p>
 		<?php
 		// put your code here
 		?>
